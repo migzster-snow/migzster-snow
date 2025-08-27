@@ -1,6 +1,6 @@
 # ⛷ Jonah Benedicto
 
-**`Tech Tourist — Build. Break. Iterate.`**
+**`Tech Adventurer — Build. Break. Iterate.`**
 
 Computer Science student at UQ exploring the intersections of software, hardware, and beyond. I build things across full-stack, ML/AI, finance, and blockchain. Always learning by building, breaking things, and improving with every iteration. Let’s build cool stuff 👋
 
