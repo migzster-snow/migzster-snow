@@ -150,4 +150,5 @@ Computer Science student at UQ exploring the intersections of software, hardware
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=migzster-snow&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=migzster-snow)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=migzster-snow)](https://git.io/streak-stats) -->
+
