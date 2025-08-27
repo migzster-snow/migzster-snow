@@ -2,7 +2,7 @@
 
 **`Digital Athlete — Fail. Learn. Improve.`**
 
-I’m a Computer Science student at The University of Queensland with interests in physics and mechatronic engineering, building across full-stack software, ML/AI/data science, quantitative finance, and blockchain. I learn by shipping small projects, breaking things, and iterating. Fail. Learn. Improve.
+Computer Science student at UQ exploring the intersections of software, hardware, and beyond. I build things across full-stack, ML/AI, finance, and blockchain. Always learning by experimenting, breaking things, and improving with every iteration. Let’s build cool stuff 👋
 
 ---
 
