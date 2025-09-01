@@ -148,7 +148,9 @@ Computer Science student at UQ exploring the intersections of software, hardware
 
 ### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=migzster-snow&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=migzster-snow&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=migzster-snow&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=migzster-snow&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=migzster-snow)](https://git.io/streak-stats) -->
 
